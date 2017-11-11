@@ -16,3 +16,4 @@ coverage.txt
 bin/gx
 bin/gx*
 bin/tmp
+bin/ipfs
